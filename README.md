@@ -1,1 +1,1 @@
-# C-PATTERN
+# Java simple pattern programs-PATTERN
